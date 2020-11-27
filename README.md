@@ -1,3 +1,6 @@
+![.github/workflows/azure.yml](https://github.com/azureprojects/nodejs-docs-hello-world/workflows/.github/workflows/azure.yml/badge.svg)
+
+
 ---
 page_type: sample
 languages:
